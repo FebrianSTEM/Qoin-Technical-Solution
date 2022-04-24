@@ -20,7 +20,10 @@ Lalu Pilih Multiple Startup Project Seperti di Gambar.
 
 ![How TO Run All 3 Services](/deskripsi_1.jpeg "How To Run ALL 3 Services")
 
-Settings Need to Adjust
+## Settings Need to Adjust
+
 ![Setting 1](/deskripsi_2.jpeg "Setting 1")
+
 ![Setting 2](/deskripsi_3.jpeg "Setting 2")
+
 ![Setting 3](/deskripsi_4.jpeg "Setting 3")
