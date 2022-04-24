@@ -15,8 +15,9 @@ Solution For Test Techinical Qoin
 
 ## How To Run ALL 3 Services simultaneously
 
-Klik Kanan Pada Solution kemudian pilih Properties.
-Lalu Pilih Multiple Startup Project Seperti di Gambar.
+Klik Kanan Pada Solution kemudian pilih Properties. \
+Lalu Pilih Multiple Startup Project Seperti di Gambar. \
+Klik Ok atau Apply dan Run (F5) Melalu Visual Studio Anda.
 
 ![How TO Run All 3 Services](/deskripsi_1.jpeg "How To Run ALL 3 Services")
 
