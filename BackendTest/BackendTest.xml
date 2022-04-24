@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackendTest</name>
+    </assembly>
+    <members>
+        <member name="M:BackendTest.Controllers.Test01Controller.GetById(System.Int32)">
+            <summary>
+            Get Single Data of Test01 by its Id
+            </summary>
+        </member>
+        <member name="M:BackendTest.Controllers.Test01Controller.GetByPage(System.Int32)">
+            <summary>
+            Get List of Test01 by its page number with 20 record per size
+            </summary>
+        </member>
+        <member name="M:BackendTest.Controllers.Test01Controller.SaveTest01(BackendTest.RequestModel.Test01InsertRequest)">
+            <summary>
+            Insert one record to Test01
+            </summary>
+        </member>
+        <member name="M:BackendTest.Controllers.Test01Controller.UpdateTest01(BackendTest.RequestModel.Test01UpdateRequest)">
+            <summary>
+            Update One Record of Test01
+            </summary>
+        </member>
+        <member name="M:BackendTest.Controllers.Test01Controller.RemoveTest01(System.Int32)">
+            <summary>
+            Remove one Record of Test01
+            </summary>
+        </member>
+    </members>
+</doc>

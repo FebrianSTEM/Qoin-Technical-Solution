@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XgAgR5b4200suR0rDfqE0C9bhsif8+Tx7fJLK35VwjOR04bNUmXqwjI+9+7I4cK/vxLbcPJoJaKG9voWX5jefg==",
+  "success": true,
+  "projectFilePath": "D:\\Febrian\\Project\\Qoin-Technical-Solution\\APIConsumer\\APIConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muhammad.maulana\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\muhammad.maulana\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\muhammad.maulana\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\Febrian\Project\Qoin\Web API Service\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.csproj.AssemblyReference.cache
+D:\Febrian\Project\Qoin\Web API Service\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Febrian\Project\Qoin\Web API Service\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.AssemblyInfoInputs.cache
+D:\Febrian\Project\Qoin\Web API Service\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.AssemblyInfo.cs
+D:\Febrian\Project\Qoin\Web API Service\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.csproj.CoreCompileInputs.cache
+D:\Febrian\Project\Qoin\Web API Service\DataRepository\bin\Debug\netcoreapp3.1\DataRepository.deps.json
+D:\Febrian\Project\Qoin\Web API Service\DataRepository\bin\Debug\netcoreapp3.1\DataRepository.dll
+D:\Febrian\Project\Qoin\Web API Service\DataRepository\bin\Debug\netcoreapp3.1\DataRepository.pdb
+D:\Febrian\Project\Qoin\Web API Service\DataRepository\bin\Debug\netcoreapp3.1\Models.dll
+D:\Febrian\Project\Qoin\Web API Service\DataRepository\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Febrian\Project\Qoin\Web API Service\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.csproj.CopyComplete
+D:\Febrian\Project\Qoin\Web API Service\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.dll
+D:\Febrian\Project\Qoin\Web API Service\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.pdb

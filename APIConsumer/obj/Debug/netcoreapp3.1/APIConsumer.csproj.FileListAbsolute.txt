@@ -1,0 +1,39 @@
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\WorkerService1\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.csproj.AssemblyReference.cache
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\WorkerService1\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\WorkerService1\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.AssemblyInfoInputs.cache
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\WorkerService1\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.AssemblyInfo.cs
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\WorkerService1\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.csproj.CoreCompileInputs.cache
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\WorkerService1\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.deps.json
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\WorkerService1\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.dll
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\WorkerService1\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.pdb
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\WorkerService1\APIConsumer\bin\Debug\netcoreapp3.1\Models.dll
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\WorkerService1\APIConsumer\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\WorkerService1\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.csproj.CopyComplete
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\WorkerService1\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.dll
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\WorkerService1\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.pdb
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.deps.json
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.dll
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.pdb
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\APIConsumer\bin\Debug\netcoreapp3.1\Models.dll
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\APIConsumer\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.csproj.AssemblyReference.cache
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.AssemblyInfoInputs.cache
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.AssemblyInfo.cs
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.csproj.CoreCompileInputs.cache
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.csproj.CopyComplete
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.dll
+D:\Febrian\Project\Qoin-Backend-Test\WorkerService\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.pdb
+D:\Febrian\Project\Qoin\Web API Service\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.csproj.AssemblyReference.cache
+D:\Febrian\Project\Qoin\Web API Service\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Febrian\Project\Qoin\Web API Service\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.AssemblyInfoInputs.cache
+D:\Febrian\Project\Qoin\Web API Service\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.AssemblyInfo.cs
+D:\Febrian\Project\Qoin\Web API Service\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.csproj.CoreCompileInputs.cache
+D:\Febrian\Project\Qoin\Web API Service\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.dll
+D:\Febrian\Project\Qoin\Web API Service\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.pdb
+D:\Febrian\Project\Qoin\Web API Service\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.deps.json
+D:\Febrian\Project\Qoin\Web API Service\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.dll
+D:\Febrian\Project\Qoin\Web API Service\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.pdb
+D:\Febrian\Project\Qoin\Web API Service\APIConsumer\bin\Debug\netcoreapp3.1\Models.dll
+D:\Febrian\Project\Qoin\Web API Service\APIConsumer\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Febrian\Project\Qoin\Web API Service\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.csproj.CopyComplete

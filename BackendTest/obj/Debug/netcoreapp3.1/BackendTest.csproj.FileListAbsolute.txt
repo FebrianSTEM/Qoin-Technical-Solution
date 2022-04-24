@@ -1,0 +1,95 @@
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.exe
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.deps.json
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.runtimeconfig.json
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.runtimeconfig.dev.json
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.dll
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.pdb
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.AssemblyInfoInputs.cache
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.AssemblyInfo.cs
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.csproj.CoreCompileInputs.cache
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.MvcApplicationPartsAssemblyInfo.cache
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\obj\Debug\netcoreapp3.1\staticwebassets\BackendTest.StaticWebAssets.Manifest.cache
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.RazorTargetAssemblyInfo.cache
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.dll
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.pdb
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.genruntimeconfig.cache
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.csproj.AssemblyReference.cache
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.MvcApplicationPartsAssemblyInfo.cs
+D:\Febrian\Project\CoinDigital\BackendTest\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.xml
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.AssemblyInfoInputs.cache
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.AssemblyInfo.cs
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.csproj.CoreCompileInputs.cache
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.MvcApplicationPartsAssemblyInfo.cs
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.MvcApplicationPartsAssemblyInfo.cache
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.dll
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.pdb
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.exe
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.deps.json
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.runtimeconfig.json
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.runtimeconfig.dev.json
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.dll
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.pdb
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.xml
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\staticwebassets\BackendTest.StaticWebAssets.Manifest.cache
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.RazorTargetAssemblyInfo.cache
+D:\Febrian\Project\Qoin-Backend-Test\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.genruntimeconfig.cache
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.AssemblyInfoInputs.cache
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.AssemblyInfo.cs
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.csproj.CoreCompileInputs.cache
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.MvcApplicationPartsAssemblyInfo.cache
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.exe
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.deps.json
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.runtimeconfig.json
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.runtimeconfig.dev.json
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.pdb
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\BackendTest.xml
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\DataRepository.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Models.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\DataRepository.pdb
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.csproj.AssemblyReference.cache
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.MvcApplicationPartsAssemblyInfo.cs
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\staticwebassets\BackendTest.StaticWebAssets.Manifest.cache
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.RazorTargetAssemblyInfo.cache
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.csproj.CopyComplete
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.dll
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.pdb
+D:\Febrian\Project\Qoin\Web API Service\BackendTest\obj\Debug\netcoreapp3.1\BackendTest.genruntimeconfig.cache

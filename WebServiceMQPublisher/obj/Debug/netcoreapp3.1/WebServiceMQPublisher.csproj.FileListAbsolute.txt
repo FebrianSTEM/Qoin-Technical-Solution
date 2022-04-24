@@ -1,0 +1,56 @@
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.csproj.AssemblyReference.cache
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.AssemblyInfoInputs.cache
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.AssemblyInfo.cs
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.csproj.CoreCompileInputs.cache
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.MvcApplicationPartsAssemblyInfo.cs
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.MvcApplicationPartsAssemblyInfo.cache
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.exe
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.deps.json
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.runtimeconfig.json
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.runtimeconfig.dev.json
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.dll
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.pdb
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.xml
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\staticwebassets\WebServiceMQPublisher.StaticWebAssets.Manifest.cache
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.RazorTargetAssemblyInfo.cache
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.csproj.CopyComplete
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.dll
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.pdb
+D:\Febrian\Project\Qoin-Backend-Test\WebServiceMQPublisher\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.genruntimeconfig.cache
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.csproj.AssemblyReference.cache
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.AssemblyInfoInputs.cache
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.AssemblyInfo.cs
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.csproj.CoreCompileInputs.cache
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.MvcApplicationPartsAssemblyInfo.cs
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.MvcApplicationPartsAssemblyInfo.cache
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.dll
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.pdb
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.exe
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.deps.json
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.runtimeconfig.json
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.runtimeconfig.dev.json
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.dll
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.pdb
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\WebServiceMQPublisher.xml
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\Models.dll
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\staticwebassets\WebServiceMQPublisher.StaticWebAssets.Manifest.cache
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.RazorTargetAssemblyInfo.cache
+D:\Febrian\Project\Qoin\Web API Service\WebServiceMQPublisher\obj\Debug\netcoreapp3.1\WebServiceMQPublisher.genruntimeconfig.cache
