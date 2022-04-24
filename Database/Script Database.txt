@@ -1,0 +1,13 @@
+CREATE DATABASE QoinTest
+
+use QoinTest
+
+CREATE TABLE Test01
+(
+	Id INT NOT NULL AUTO_INCREMENT,
+	Nama VARCHAR(100) NOT NULL,
+        Status smallint,
+	Created DATETIME,
+	Updated DATETIME,
+	PRIMARY KEY( Id )
+)
