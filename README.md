@@ -15,5 +15,12 @@ Solution For Test Techinical Qoin
 
 ## How To Run ALL 3 Services simultaneously
 
+Klik Kanan Pada Solution kemudian pilih Properties.
+Lalu Pilih Multiple Startup Project Seperti di Gambar.
 
+![How TO Run All 3 Services](/deskripsi 1.jpeg, "How To Run ALL 3 Services")
 
+Settings Need to Adjust
+![Setting 1](/deskripsi 2.jpeg, "Setting 1")
+![Setting 2](/deskripsi 3.jpeg, "Setting 2")
+![Setting 3](/deskripsi 4.jpeg, "Setting 3")
